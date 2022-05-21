@@ -1,0 +1,21 @@
+{
+  "name": "untitled5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "cron": "^2.0.0",
+    "deep-diff": "^1.0.2",
+    "just-diff": "^5.0.2",
+    "request": "^2.88.2"
+  }
+}
